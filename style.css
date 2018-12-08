@@ -1,0 +1,30 @@
+body{
+  background-image: url(https://bit.ly/2Q4q14a);
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#scoreContainer{
+  background-color: black;
+  color: white;
+  width: 15%;
+  height: 100px;
+  border: 2px solid greenyellow;
+  border-radius: 10px;
+  line-height: 0.5;
+  padding-left: 10px;
+}
+#score{
+  color: white;
+}
+
+#duck{
+  margin:50px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 100px;
+  top: 100px;
+}
